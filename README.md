@@ -6,12 +6,12 @@ Description: A web application built mainly using the Python Flask framework alo
 
 Languages used: Python, Python Flask framework, HTML
 
-Sources: https://nsepy.xyz/
+Sources: https://nsepy.xyz/ , 
 https://getbootstrap.com/
 
 Contributors: 
-Akhil Harsha
-Aryan Kapoor
+Akhil Harsha, 
+Aryan Kapoor, 
 Mani Ramu
 
 Note: There was an issue interfacing the NSE Python API with the website we created, displaying the output was the issue. *First hackathon for all members of the team.
