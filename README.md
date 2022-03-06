@@ -1,8 +1,10 @@
 # HackHub-Project
-Stock Web Application
+Amulya- A Stock Web Application
 Project: Stocks Web App
 
 Description: A web application built mainly using the Python Flask framework along with the NSE Python module (API) that gives back the current price for any listed stock as well as its monthly history showing the price fluctuations on the National Stock Exchange, it caters exclusively to the Indian stock markets. It can also be used to compare the performance of two stocks within the same industry (ex: I.T., Construction etc.).
+
+Amulya- meaning priceless or inestimable in Hindi and/or Sanskrit.
 
 Languages used: Python, Python Flask framework, HTML
 
