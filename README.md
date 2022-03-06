@@ -14,5 +14,7 @@ Akhil Harsha
 Aryan Kapoor
 Mani Ramu
 
-Note: There was an issue interfacing the NSE Python API with the website we created, displaying the output was the issue.
+Note: There was an issue interfacing the NSE Python API with the website we created, displaying the output was the issue. *First hackathon for all members of the team.
+
+Track - Finamce
 
